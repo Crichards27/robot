@@ -1,0 +1,2 @@
+# C++ ROS2 migration
+This repository has been migrated from the original Python event-bus implementation to a ROS 2 (C++) workspace. The new workspace is under ros2_ws/. Build instructions are in ros2_ws/README.md. The original Python files were intentionally replaced.
